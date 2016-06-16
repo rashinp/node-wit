@@ -15,7 +15,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "https://github.com/wit-ai/node-wit",
+  "repository": "https://github.com/rashinp/node-wit.git",
   "author": "Julien Odent <julien@wit.ai>",
   "dependencies": {
     "node-fetch": "^1.5.1",
